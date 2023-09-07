@@ -1,5 +1,3 @@
-# Welcome!
-
 ![Tool80](Tool80srl.png)
 
 Tool80srl is a SME company located in North Italy. It carries out research and development activities in the field of coding and decoding of multimedia data streams (MPEG, MPAI). 
