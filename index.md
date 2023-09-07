@@ -6,7 +6,7 @@ Tool80 is a SME company located in North Italy. It carries out research and deve
 It also provides expertise on generic data streaming, such as open data, energy data, genomic data, and more generally about big data streaming.
 Tool80 Srl provides consulting, design experience and system integration support on a variety of different platforms and AI algorithms.
 
-## Tool80 is an associate member of
+## Tool80 srl is an associate member of
 ![MPAI](images/mpai_logo.jpg)
 MPAI is the international, unaffiliated, no-profit organisation developing standards for AI-based data coding with clear Intellectual Property Rights licensing frameworks.
 
