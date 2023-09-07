@@ -13,7 +13,7 @@ Tool80 Srl provides consulting, design experience and system integration support
 - Località Cernidor 32 – 38123 – Trento (TN) – Italy
 - VAT Num: 02459490229
 - pec: tool80@pec.it
-- email: [info@tool80.it](mailto:info@tool80.it)
+- email: info@tool80.it
 - website: [www.tool80.it](https://www.tool80.it)
 
 <footer>
